@@ -1,6 +1,5 @@
 ### Olá, Eu sou Diogo
--Sou um Desenvolvedor Front-End.
--Tenho preferencia pela linguagem Pyton-->
+
 
  <div>
   <a href="https://github.com/aviladiogo">
